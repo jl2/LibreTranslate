@@ -378,6 +378,7 @@ You can use the LibreTranslate API using the following bindings:
 - Java: <https://github.com/suuft/libretranslate-java>
 - Ruby: <https://github.com/noesya/libretranslate>
 - R: <https://github.com/myanesp/libretranslateR>
+- Common Lisp: <https://github.com/jl2/cl-libre-translate>
 
 ## Discourse Plugin
 
